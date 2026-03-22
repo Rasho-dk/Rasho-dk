@@ -4,6 +4,7 @@ Howdy! 🤠
 
 ## 🚀 About Me
 - 🌱 Currently studying **Software Development @ EK**
+- Intership @ Gardian as a **Software Enginner**
 - 💼 Working as a **Data Engineer**
 - ⚡ Passionate about building clean UIs & scalable backends, using my data expertise to create applications driven by data behavior and insights
 - 🎯 Goal: Become a versatile developer mastering both **frontend** and **backend**
